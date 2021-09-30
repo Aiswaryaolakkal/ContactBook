@@ -54,7 +54,7 @@ public class  MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Contact Book");
+        getSupportActionBar().setTitle("  Contact Book  ");
 
         progress = new ProgressDialog(this);
         progress.setMessage(getString(R.string.plz_wait));
