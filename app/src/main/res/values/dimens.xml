@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="icon_sie">30dp</dimen>
+    <dimen name="icon_sie1">24dp</dimen>
+    <dimen name="img_width">100dp</dimen>
+    <dimen name="img_height">70dp</dimen>
+    <dimen name="eightdp">8dp</dimen>
+    <dimen name="fourdp">4dp</dimen>
+    <dimen name="fortysp">14sp</dimen>
+    <dimen name="twlsp">12sp</dimen>
+
+
+</resources>
